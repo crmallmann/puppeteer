@@ -1,8 +1,8 @@
 # Puppeteer
 
-Exemplo simples utilizando a ferramente Puppeteer.
+Exemplo simples utilizando a ferramenta Puppeteer.
 
-Antes de começarmos, certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em https://nodejs.org/.
+Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em https://nodejs.org/.
 
 Aqui estão os passos básicos para configurar um projeto com Puppeteer:
 
