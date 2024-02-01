@@ -10,3 +10,5 @@ Aqui estão os passos básicos para configurar um projeto com Puppeteer:
 2. Instale o Puppeteer: npm install puppeteer
 3. Crie um arquivo JavaScript para escrever seu script Puppeteer. Por exemplo, script.js.
 4. Execute o script: node script.js 
+
+Documentação oficial -> https://pptr.dev/
